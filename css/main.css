@@ -19,6 +19,7 @@ div {
   color: #fff;
   padding: .4em .75em .3em;
   border-radius: 8px;
+  display: inline-block;
 }
 
 .btn:hover {
