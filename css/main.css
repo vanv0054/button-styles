@@ -103,9 +103,9 @@ div {
 }
 
 .btn-ghost-small:hover {
-    background-color: #666;
-    border: 3px solid #666;
-    color: #fff;
+  background-color: #666;
+  border: 3px solid #666;
+  color: #fff;
 }
 
 .btn-warning-small {
@@ -131,7 +131,7 @@ div {
 }
 
 .btn-big:hover {
-    background-color: #000;
+  background-color: #000;
 }
 
 .btn-subtle-big {
@@ -172,5 +172,5 @@ div {
 }
 
 .btn-warning-big:hover {
-    background-color: #933;
+  background-color: #933;
 }
