@@ -70,10 +70,10 @@ div {
 .btn-small {
   font-size: .875rem;
   text-decoration: none;
-  background-color: #333;
   color: #fff;
-  padding: .4em .75em .3em;
   border-radius: 8px;
+  padding: .4em .75em .3em;
+  background-color: #333;
 }
 
 .btn-small:hover {
