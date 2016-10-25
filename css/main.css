@@ -39,9 +39,9 @@ div {
 }
 
 .btn-ghost {
-background-color: transparent;
-border-color: #333;
-color: #333;
+  background-color: transparent;
+  border-color: #333;
+  color: #333;
 }
 
 .btn-ghost:hover {
