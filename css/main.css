@@ -28,10 +28,7 @@ div {
 
 .btn-subtle {
   font-size: 1.125rem;
-  text-decoration: none;
   color: #fff;
-  padding: .4em .75em .3em;
-  border-radius: 8px;
   background-color: #ccc;
 }
 
@@ -41,11 +38,7 @@ div {
 
 .btn-ghost {
   font-size: 1.125rem;
-  text-decoration: none;
-  padding: .4em .75em .3em;
-  border-radius: 8px;
   color: #000;
-  border: 3px solid #000;
 }
 
 .btn-ghost:hover {
@@ -56,9 +49,6 @@ div {
 
 .btn-warning {
   font-size: 1.125rem;
-  text-decoration: none;
-  padding: .4em .75em .3em;
-  border-radius: 8px;
   color: #fff;
   background-color: #f33;
 }
@@ -69,11 +59,6 @@ div {
 
 .btn-small {
   font-size: .875rem;
-  text-decoration: none;
-  color: #fff;
-  border-radius: 8px;
-  padding: .4em .75em .3em;
-  background-color: #333;
 }
 
 .btn-small:hover {
@@ -123,11 +108,6 @@ div {
 
 .btn-big {
   font-size: 1.5rem;
-  text-decoration: none;
-  background-color: #333;
-  color: #fff;
-  padding: .4em .75em .3em;
-  border-radius: 8px;
 }
 
 .btn-big:hover {
